@@ -1,0 +1,6 @@
+train: path_to_yolo_train_data
+val: path_to_yolo_validation_data
+
+nc: 1
+
+names: ['logo']
